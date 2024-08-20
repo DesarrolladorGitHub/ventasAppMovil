@@ -1,8 +1,23 @@
 # ventas_app
 
+VentasApp es una aplicacion para hacer publicidad a ciertas funcionalidades para poder hacer un examen de testeo
+
 A new Flutter project.
 
 ## Getting Started
+
+
+flutter packages get  
+
+flutter packages upgrade
+
+flutter clean
+
+flutter run  
+
+sdk: ^3.5.0
+
+Flutter 3.24.0 • channel stable
 
 This project is a starting point for a Flutter application.
 
