@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "265366116800",
+    "project_id": "flutter-dfa51",
+    "storage_bucket": "flutter-dfa51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265366116800:android:1e91e3519e3e064a5ed025",
+        "android_client_info": {
+          "package_name": "com.example.ventas_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZNE8FhReYV9h-Up6gfkBGQRz715tqVu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
